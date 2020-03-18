@@ -14,4 +14,4 @@ Repository von Seed Studio:                               [Seeed Studio Github -
 
 Offizielles Wiki von Seed Studio Grove:                         [Seeed Studio Wiki - Grove Dust Sensor](http://wiki.seeedstudio.com/Grove-Dust_Sensor/)
 
-Weitere Informationen zum Materialkoffervon Make Your School:   [Make Your School(https://www.makeyourschool.de/material/feinstaubsensor/)
+Materialkoffer von Make Your School:   [Make Your School - Feinstaubsensor](https://www.makeyourschool.de/material/feinstaubsensor/)
