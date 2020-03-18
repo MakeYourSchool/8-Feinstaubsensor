@@ -2,7 +2,7 @@ Feinstaubsensor
 ----
 (Seeed Studio Grove – Dust sensor)
 
-<img src=https://www.makeyourschool.de/wp-content/uploads/2018/10/8_feinstaubsensor-1024x1024.jpg width=400px align=right>
+<img src=https://www.makeyourschool.de/wp-content/uploads/2018/10/8_feinstaubsensor-1024x1024.jpg width=400px align=center>
 
 Der Feinstaubsensor wertet die umgebende Luftqualität über die Feinstaubkonzentration aus. Die Feinstaubkonzentration wird dabei durch die Anzahl an erfassten Partikeln pro Zeiteinheit bestimmt. Der Sensor erfasst Feinstaubpartikel ab einer Größe von 1 µm und gibt einen Impuls bei jeder Erfassung eines Partikels aus. 
 
