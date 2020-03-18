@@ -10,6 +10,8 @@ Der Feinstaubsensor wertet die umgebende Luftqualität über die Feinstaubkonzen
 Dieses Repository basiert auf den veröffentlichten Informationen und Codes von Seeed Studio. 
 Die deutsche Übersetzung stammt von [Make Your School](https://www.makeyourschool.de/). Fehlinterpretationen und Änderungen vorbehalten. Die Informationen dürfen frei genutzt, angepasst und verbreitet werden, solange die Nutzungsrechte von Seeed Studio beachtet werden.
 
-Repository von Seed Studio Grove:                               [Seeed Studio Github - Grove Dust Sensor](https://github.com/Seeed-Studio/Grove_Dust_Sensor)
+Repository von Seed Studio:                               [Seeed Studio Github - Grove Dust Sensor](https://github.com/Seeed-Studio/Grove_Dust_Sensor)
+
 Offizielles Wiki von Seed Studio Grove:                         [Seeed Studio Wiki - Grove Dust Sensor](http://wiki.seeedstudio.com/Grove-Dust_Sensor/)
+
 Weitere Informationen zum Materialkoffervon Make Your School:   [Make Your School(https://www.makeyourschool.de/material/feinstaubsensor/)
